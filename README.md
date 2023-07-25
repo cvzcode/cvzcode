@@ -15,7 +15,7 @@
 ## Let's Connect!
 📬 Feel free to reach out to me for any collaboration opportunities or to connect with like-minded tech enthusiasts.
 
-[![Instagram](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.instagram.com/francotriestocode/)
+[![Instagram](https://img.shields.io/badge/Instagram-Connect-blue?style=flat&logo=instagram)](https://www.instagram.com/francotriestocode/)
 
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/cvzFranco)
 
