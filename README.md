@@ -34,14 +34,25 @@ Let's code together and shape a brighter future! 🚀
 ---
 ## Day to day progress
 
-### 26/07/2023 : Day 1
+###  Day 1: 26/07/2023
+
+#### What i've learned today?
+What is Flutter?
+What is Material Design?
+
+
+#### Topic / Question i would like to explore further.
+How Flutter translate the code into ios / android code?
+[Stackoverflow](https://stackoverflow.com/questions/43854647/flutter-how-does-it-work-behind-the-scenes)
+[Youtube](https://youtu.be/sqJtOFabyMw)
+
+### 27/07/2023 : Day 2
 
 ### What i've learned today?
-What's FLutter?
-What's is Material Design?
-
+Today i've read some articles for try to understand how works flutter and how dart code is compilated into native code.
 
 ### Topic / Question i would like to explore further.
 How Flutter translate the code into ios / android code?
 [Stackoverflow](https://stackoverflow.com/questions/43854647/flutter-how-does-it-work-behind-the-scenes)
 [Youtube](https://youtu.be/sqJtOFabyMw)
+[Flutter Doc](https://docs.flutter.dev/resources/architectural-overview)
