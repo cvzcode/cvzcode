@@ -38,21 +38,47 @@ Let's code together and shape a brighter future! 🚀
 
 #### What i've learned today?
 What is Flutter?
-What is Material Design?
+What is Material Design? 
 
+
+### 27/07/2023 : Day 2
+
+#### What i've learned today?
+Today i've read some articles for try to understand how works flutter and how dart code is compilated into native code.
 
 #### Topic / Question i would like to explore further.
 How Flutter translate the code into ios / android code?
 [Stackoverflow](https://stackoverflow.com/questions/43854647/flutter-how-does-it-work-behind-the-scenes)
 [Youtube](https://youtu.be/sqJtOFabyMw)
-
-### 27/07/2023 : Day 2
-
-### What i've learned today?
-Today i've read some articles for try to understand how works flutter and how dart code is compilated into native code.
-
-### Topic / Question i would like to explore further.
-How Flutter translate the code into ios / android code?
-[Stackoverflow](https://stackoverflow.com/questions/43854647/flutter-how-does-it-work-behind-the-scenes)
-[Youtube](https://youtu.be/sqJtOFabyMw)
 [Flutter Doc](https://docs.flutter.dev/resources/architectural-overview)
+
+### 28/07/2023 : Day 3
+
+#### What i've learned today?
+- analyzing a new project
+- Form Dart to code machine
+- Understanding Functions
+- Importing features from templates
+- How Flutter apps Start
+- quizz
+
+### 29/07/2023 : Day 4
+
+#### What i've learned today?
+- 20 Understanding widget
+- 21 Using a First widget & passing values to functions
+- 22 Positional & Named arguments
+- 23 Deep Dive Position & Named Arguments
+- 24 Combining Multiple Widgets
+- 25 Building more complex widget trees
+- 26 Understanding "Const"
+- 27 Understanding values type
+- 28 Configuring Widgets & Understanding Objects
+- 29 Working with 'configuration Objects'
+- 30 Generics, list & adding gradient colors
+- 31 How to configures Widgets & Objects
+- 32 Pratice styling Text
+- 33  Onwards to Custom Widgets: Why do you need them?
+- 34 Understanding Classes
+
+
